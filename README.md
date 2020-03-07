@@ -1,4 +1,4 @@
-# burpextn
+# Burp AlphaNumeric Extension
 Contains burpsuite extension (using Python) which can used to intrude alphanumeric characters.
 
 Burpsuite community edition doesn't have this feature and users have to enter all the alphanum characters to do an intruder attack.
