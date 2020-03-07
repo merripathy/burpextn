@@ -36,7 +36,7 @@ class BurpExtender(IBurpExtender, IIntruderPayloadGeneratorFactory, IIntruderPay
     #
     
     def getGeneratorName(self):
-        return "My (merri) payloads"
+        return "My (merri) payloads" #Customize this as per your naming convenction
 
     def createNewInstance(self, attack):
         # return a new IIntruderPayloadGenerator to generate payloads for this attack
