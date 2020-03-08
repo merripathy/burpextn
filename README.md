@@ -9,7 +9,7 @@ User can change/customize the payload per their requirements.
 
 Copy this code and create a python file (ex - alphanum_burpextn.py)
 
-In the Options of Extender tab of burpsuite, setup the Python Environment(Download file jython-standalone-2.7.1.jar and provide the path of it).
+At Extender / Options / Python environment, setup the Python Environment(Download file jython-standalone-2.7.1.jar and provide the path of it).
 
 In the Extensions tab of the click "Add" to add Burp Extension.
 
